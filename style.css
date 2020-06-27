@@ -1,0 +1,40 @@
+.main{
+    border: 2px solid yellow;
+    width: 200px;
+    margin: 0 auto;
+    background-color: greenyellow;
+    border-radius: 0, 30px;
+}h2{
+    text-align: center;
+    text-shadow: 1px 0 red;
+}
+.screen{
+    height: 30px;
+    width: 96%;
+    background-color: lightcyan;
+    color: black;
+}.btnClear{
+    width: 100%;
+    margin-top: 10px;
+    color: black;
+    background-color: lightcyan;
+}.btn{
+    width: 47px;
+
+    background-color: lightcyan;
+    margin-top: 5px;
+}.btnZero{
+    width: 97px;
+    margin-top: 5px;
+    background-color: lightcyan;
+}.btnEqual{
+    width: 100%;
+    margin-top: 10px;
+    background-color: purple;
+    color: white;
+}.btnSeven,.btnFive,.btnThree{
+    width: 47px;
+    color: white;
+    background-color: black;
+
+}
